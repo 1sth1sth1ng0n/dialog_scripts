@@ -90,7 +90,7 @@ function dialog2(){
 # need this sleep to let the dialog app open as it deletes the command file on launch
 sleep 1
 
-# we don not want the OK button to do anything here
+# we do not want the OK button to do anything here
 /bin/echo "button1: disable" >> /var/tmp/dialog.log
 
 # we want the output to not get buffered, the -u forces sed to not use buffering
