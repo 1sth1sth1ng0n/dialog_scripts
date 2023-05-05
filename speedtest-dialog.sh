@@ -149,7 +149,7 @@ message3="Results:  \n\nTesting from: **${tf}**  \nDownload Speed = **${dl}**  \
 --icon '/usr/local/blob/logo-400-border.png'  \
 --button1text "OK" \
 --button2text "Submit to help" \
---title 'R/GA - Speed Test Utility' \
+--title 'Speed Test Utility' \
 --titlefont ${titlefontsize} \
 --message ${message3} \
 --messagefont "size=14" \
