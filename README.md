@@ -1,5 +1,8 @@
-# speed test
+# Internet Speed Test Utility
 
+Leverging the excellent swiftDialog - https://github.com/bartreardon/swiftDialog + speedtest-cli https://github.com/sivel/speedtest-cli
+
+More of an exploration of swiftDialog than a production tool.
 
 <img width="712" alt="Screenshot 2023-05-05 at 18 50 01" src="https://user-images.githubusercontent.com/90104938/236581883-a6a00f5f-62df-4b53-8db7-562fce408895.png">
 
