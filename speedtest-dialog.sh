@@ -11,7 +11,7 @@
 #        AUTHOR: oliver.reardon
 #  ORGANIZATION: 
 #       CREATED: 15012022 09:50
-#      REVISION:  0.6
+#      REVISION:  0.7
 #===============================================================================
 
 DialogLog='/var/tmp/dialog.log'
