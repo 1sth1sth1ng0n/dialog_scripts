@@ -1,4 +1,4 @@
-# Internet Speed Test Utility
+# Dialog - Internet Speed Test Utility
 
 Leverging the excellent swiftDialog - https://github.com/bartreardon/swiftDialog + speedtest-cli https://github.com/sivel/speedtest-cli
 
